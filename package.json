@@ -1,0 +1,10 @@
+{
+  "name": "MicroChat",
+  "version": "0.0.1",
+  "description": "小型多聊天室系统",
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7",
+    "jquery": "~3.2.1"
+  }
+}
